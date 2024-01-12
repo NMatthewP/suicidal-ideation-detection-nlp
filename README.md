@@ -1,2 +1,7 @@
 # suicidal-ideation-detection
- A model that can detect suicidal ideation in textual context.
+ **A model that can detect suicidal ideation in textual context.**
+
+
+ According to the American Psychological Association, nearly 20% of teens worldwide have contemplated suicide. Suicidal ideation, the contemplation of taking one's life, can stem from various factors, including psychiatric disorders like anxiety, paranoia, schizophrenia, medication side effects altering hormonal levels, or life events. Life events notably increase the risk of suicidal ideation, such as bullying, relationship endings, loss of a loved one, unemployment, chronic illness, and other triggers. It's essential to acknowledge that these triggers are subjective, with an individual reacting strongly to incidents that others might consider trivial.
+
+The objective of this project is to utilize Natural Language Processing (NLP) to detect potential suicide risks within textual content. With a dataset comprising over fifty thousand classified messages, this classification model holds the potential to significantly enhance the prediction of suicidal ideation, even when not explicitly stated. The mental health field currently lacks machine learning tools, and integrating such models could be invaluable. This particular classification model could play a pivotal role in identifying signs of suicidal thoughts among users of apps or websites. For example, if a user posts content hinting at suicidal thoughts on a platform, this model could recognize the underlying intent and alert professional help, enabling them to offer much-needed support and guidance to the user.
